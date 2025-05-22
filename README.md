@@ -200,7 +200,9 @@ int main()
 !nvprof --print-gpu-trace ./matmul
 ```
 ## OUTPUT:
-![alt text](328757604-98840d6e-c8d0-42f5-87e5-b7dc0b57c78d.png)
+![Screenshot 2024-10-22 140033](https://github.com/user-attachments/assets/76e5a6a1-9e8a-4a59-a726-79b662bfaa35)
+![Screenshot 2024-10-22 140144](https://github.com/user-attachments/assets/5b9df4a2-8a81-4731-9fd0-2bc14b4d3d69)
+![Screenshot 2024-10-22 140241](https://github.com/user-attachments/assets/90a1fb5a-7ba6-4f10-98b1-5bc62da95f9c)
 
 
 ## RESULT:
